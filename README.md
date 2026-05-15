@@ -44,7 +44,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[AWS Web App Hosting]** | Highly available web app using EC2 & S3 | AWS, Terraform |
-| **[CI/CD Pipeline]** | Automated build and deploy with Jenkins | Docker, Jenkins, Git |
+| **[CI/CD Pipeline]** | Automated build and deploy with Github actions | Docker, Git, Github Actions |
 | **[K8s Cluster Setup]** | Deploying a microservices app on Kubernetes | Azure (AKS), kubectl |
 
 ---
