@@ -2,7 +2,7 @@
 ### Cloud & DevOps Engineer in Training | Automating the World, One Pipeline at a Time
 
 <p align="left">
- <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" />
+ <img src="https://komarev.com/ghpvc/?username=Shameernittur&label=Profile%20views&color=0e75b6&style=flat" alt=Shameernittur />
 </p>
 
 ---
