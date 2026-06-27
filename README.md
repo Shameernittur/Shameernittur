@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Shameer Nittur 👋
 ### Cloud & DevOps Engineer in Training | Automating the World, One Pipeline at a Time
 
 <p align="left">
